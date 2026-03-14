@@ -1,0 +1,10 @@
+name: example-thumb
+service: example
+
+creator: ai
+tool: chatgpt
+model: gpt-image-1
+
+animated: true
+variants:
+  - webp

@@ -1,0 +1,7 @@
+{
+    "name": "Dashboard Thumbs",
+    "description": "AI generated and community created thumbnails for dashboards.",
+    "version": "1.0",
+    "base_url": "https://cdn.jsdelivr.net/gh/barina/dashboard-thumbs/",
+    "index": "index.json"
+}
