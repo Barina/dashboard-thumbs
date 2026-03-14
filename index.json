@@ -1,1 +1,34 @@
-{}
+{
+  "dockhand": {
+    "files": {
+      "webp": {
+        "128": "webp/dockhand@128.webp",
+        "512": "webp/dockhand@512.webp",
+        "256": "webp/dockhand@256.webp"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "webp"
+    ]
+  },
+  "Dockhand": {
+    "meta": {
+      "name": "Dockhand",
+      "category": "service",
+      "service": "dockhand",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "jpg"
+      ]
+    }
+  }
+}
