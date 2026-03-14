@@ -17,7 +17,7 @@ Most thumbnails are animated WebP, but PNG and GIF formats are also supported.
 
 ## Usage
 
-Icons can be loaded directly via CDN:
+Thumbs can be loaded directly via CDN:
 
 ```
 https://cdn.jsdelivr.net/gh/barina/dashboard-thumbs/webp/jellyfin.webp
@@ -31,7 +31,7 @@ https://cdn.jsdelivr.net/gh/barina/dashboard-thumbs/webp/jellyfin@128.webp
 
 ## Contributing
 
-Please read **CONTRIBUTING.md** before submitting icons.
+Please read **CONTRIBUTING.md** before submitting thumbs.
 
 ## Preview
 

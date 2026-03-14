@@ -3,9 +3,9 @@ By submitting an thumbnail you confirm that:
 - You created the asset yourself OR
 - It is derived from publicly available branding assets
 
-You agree that the icon will be distributed under the repository license.
+You agree that the thumbnail will be distributed under the repository license.
 
-Icons may be AI-generated, but contributors must ensure they do not infringe copyright or trademark restrictions beyond normal service identification usage.
+Thumbs may be AI-generated, but contributors must ensure they do not infringe copyright or trademark restrictions beyond normal service identification usage.
 
 Optimized versions (@256, @128) may be provided manually.
 
