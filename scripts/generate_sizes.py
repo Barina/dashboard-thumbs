@@ -5,12 +5,14 @@ import re
 FORMATS = {
     "webp": "webp",
     "png": "png",
-    "gif": "gif"
+    "gif": "gif",
+    "jpg": "jpg",
+    "jpg": "jpeg"
 }
 
 TARGETS = [256, 128]
 
-pattern = re.compile(r"^(.*?)(?:@(\d+))?\.(webp|png|gif)$")
+pattern = re.compile(r"^(.*?)(?:@(\d+))?\.(webp|png|gif|jpg|jpeg)$")
 
 def run(cmd):
     subprocess.run(cmd, check=True)
