@@ -1,0 +1,12 @@
+name: Dockhand
+category: service
+service: dockhand
+
+creator: ai
+tool: grok
+model: grok imagine
+
+animated: true
+variants:
+  - webp
+  - jpg
