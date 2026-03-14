@@ -10,7 +10,7 @@ FORMATS = {
     "jpg": "jpeg"
 }
 
-TARGETS = [256, 128]
+TARGETS = [512, 256, 128]
 
 pattern = re.compile(r"^(.*?)(?:@(\d+))?\.(webp|png|gif|jpg|jpeg)$")
 
