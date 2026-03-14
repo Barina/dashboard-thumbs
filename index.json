@@ -14,11 +14,9 @@
     ],
     "formats": [
       "webp"
-    ]
-  },
-  "Dockhand": {
+    ],
     "meta": {
-      "name": "Dockhand",
+      "name": "dockhand",
       "category": "service",
       "service": "dockhand",
       "creator": "ai",
