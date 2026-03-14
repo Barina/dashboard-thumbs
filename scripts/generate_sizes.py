@@ -5,11 +5,8 @@ import shutil
 
 MAGICK = shutil.which("magick") or shutil.which("convert")
 IDENTIFY = shutil.which("identify")
-
 FORMATS = {"webp": ["webp"], "png": ["png"], "gif": ["gif"], "jpg": ["jpg", "jpeg"]}
-
 TARGETS = [512, 256, 128]
-
 pattern = re.compile(r"^(.*?)(?:@(\d+))?\.(.+)$")
 
 
@@ -48,7 +45,7 @@ def generate(base_path, ext, size, source_height):
     )
 
 
-def process_dir(folder):
+def process_dir(folder, extensions):
 
     for f in os.listdir(folder):
 
@@ -60,6 +57,10 @@ def process_dir(folder):
             continue
 
         name, size, ext = m.groups()
+
+        # ensure file extension is allowed for this folder
+        if ext.lower() not in extensions:
+            continue
 
         if size:
             continue
@@ -77,5 +78,4 @@ for folder, exts in FORMATS.items():
     if not os.path.isdir(folder):
         continue
 
-    for ext in exts:
-        process_dir(folder, ext)
+    process_dir(folder, exts)
