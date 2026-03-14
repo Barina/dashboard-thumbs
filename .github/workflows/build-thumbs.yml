@@ -7,12 +7,8 @@ on:
       - "png/**"
       - "gif/**"
       - "meta/**"
-    paths-ignore:
-      - "index.json"
-      - "meta/example.yml"
-      - "webp/*@*.webp"
-      - "png/*@*.png"
-      - "gif/*@*.gif"
+      - "build_index.py"
+      - "scripts/**"
 
 jobs:
   build:
