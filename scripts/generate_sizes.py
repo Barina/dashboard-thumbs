@@ -1,6 +1,9 @@
 import os
 import subprocess
 import re
+import shutil
+
+MAGICK = shutil.which("magick") or shutil.which("convert")
 
 FORMATS = {
     "webp": "webp",
@@ -28,7 +31,7 @@ def generate(base_path, ext, size):
         return
 
     run([
-        "magick",
+        MAGICK,
         src,
         "-coalesce",
         "-resize", f"x{size}",
