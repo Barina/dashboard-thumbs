@@ -30,6 +30,7 @@ def generate(base_path, ext, size):
     run([
         "magick",
         src,
+        "-coalesce",
         "-resize", f"x{size}",
         "-strip",
         "-quality", "85",
