@@ -6,6 +6,7 @@ on:
       - "webp/**"
       - "png/**"
       - "gif/**"
+      - "jpg/**"
       - "meta/**"
       - "build_index.py"
       - "scripts/**"
