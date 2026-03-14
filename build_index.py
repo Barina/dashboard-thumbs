@@ -9,6 +9,7 @@ pattern = re.compile(r"^(.*?)(?:@(\d+))?\.(webp|png|gif)$")
 
 index = {}
 
+
 def scan_format(fmt):
     folder = fmt
 
@@ -26,11 +27,7 @@ def scan_format(fmt):
         size = int(size) if size else 512
 
         if name not in index:
-            index[name] = {
-                "files": {},
-                "sizes": set(),
-                "formats": set()
-            }
+            index[name] = {"files": {}, "sizes": set(), "formats": set()}
 
         entry = index[name]
 
