@@ -1,0 +1,10 @@
+name: example-thumb
+category: generic
+service: null
+
+creator: Roy Barina
+author: barina
+
+animated: true
+variants:
+  - png
