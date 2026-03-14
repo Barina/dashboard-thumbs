@@ -31,7 +31,7 @@ https://cdn.jsdelivr.net/gh/barina/dashboard-thumbs/webp/jellyfin@128.webp
 
 ## Contributing
 
-Please read **CONTRIBUTING.md** before submitting thumbs.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting thumbs.
 
 ## Preview
 
