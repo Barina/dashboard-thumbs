@@ -1,0 +1,11 @@
+name: ollama
+category: service
+service: ollama
+
+creator: ai
+tool: grok
+model: grok imagine
+
+animated: true
+variants:
+  - webp
