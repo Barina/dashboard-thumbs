@@ -51,7 +51,7 @@ def build():
 
         thumbs.append((service, preview))
 
-    thumbs.sort()
+    thumbs.sort(key=lambda x: x[0].lower())
 
     with open(OUT_FILE, "w") as f:
 
