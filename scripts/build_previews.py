@@ -58,20 +58,15 @@ def build():
         f.write("# Thumb Gallery\n\n")
         f.write("Auto-generated preview gallery.\n\n")
 
-        f.write('<div style="display:flex;flex-wrap:wrap;gap:20px;">\n\n')
-
-        for service, img in thumbs:
-
+        f.write("<p>\n")
+        for name, img in thumbs:
             f.write(
                 f"""
-<div style="width:140px;text-align:center;font-size:12px;">
-<img src="{img}" width="96"><br>
-{service}
-</div>
-"""
+  <a href="{img}">
+    <img src="{img}" width="180" alt="{name}">
+  </a>"""
             )
-
-        f.write("\n</div>\n")
+        f.write("\n</p>\n")
 
 
 if __name__ == "__main__":
