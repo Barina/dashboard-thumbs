@@ -1,0 +1,11 @@
+name: nginx-proxy-manager-2
+category: service
+service: nginx-proxy-manager
+
+creator: ai
+tool: grok
+model: grok imagine
+
+animated: true
+variants:
+  - webp
