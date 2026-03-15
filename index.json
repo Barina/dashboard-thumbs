@@ -35,6 +35,42 @@
       ]
     }
   },
+  "meelo": {
+    "files": {
+      "webp": {
+        "512": "webp/meelo@512.webp",
+        "128": "webp/meelo@128.webp",
+        "256": "webp/meelo@256.webp"
+      },
+      "png": {
+        "512": "png/meelo@512.png",
+        "128": "png/meelo@128.png",
+        "256": "png/meelo@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png",
+      "webp"
+    ],
+    "meta": {
+      "name": "meelo",
+      "category": "service",
+      "service": "meelo",
+      "creator": "ai",
+      "tool": "chatgpt & grok",
+      "model": "gpt & grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "png"
+      ]
+    }
+  },
   "router": {
     "files": {
       "webp": {
