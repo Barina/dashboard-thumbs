@@ -1,0 +1,12 @@
+name: auth
+category: generic
+service: null
+
+creator: ai
+tool: chatgpt & grok
+model: gpt & grok imagine
+
+animated: true
+variants:
+  - webp
+  - png
