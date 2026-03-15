@@ -1,0 +1,11 @@
+name: unity
+category: service
+service: unity
+
+creator: ai
+tool: grok
+model: grok imagine
+
+animated: true
+variants:
+  - webp
