@@ -1,0 +1,12 @@
+name: tubesync
+category: service
+service: tubesync
+
+creator: ai
+tool: grok
+model: grok imagine
+
+animated: true
+variants:
+  - webp
+  - jpg
