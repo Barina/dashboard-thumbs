@@ -1,0 +1,11 @@
+name: white-screen
+category: service
+service: white-screen
+
+creator: ai
+tool: grok
+model: grok imagine
+
+animated: true
+variants:
+  - webp
