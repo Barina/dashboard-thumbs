@@ -1,0 +1,11 @@
+name: nextcloud-2
+category: service
+service: nextcloud
+
+creator: ai
+tool: chatgpt
+model: gpt
+
+animated: false
+variants:
+  - png
