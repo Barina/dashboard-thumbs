@@ -1,0 +1,12 @@
+name: tvtime
+category: service
+service: tvtime
+
+creator: ai
+tool: gpt & grok
+model: gtp & grok imagine
+
+animated: true
+variants:
+  - webp
+  - png
