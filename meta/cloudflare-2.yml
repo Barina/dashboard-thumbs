@@ -1,0 +1,11 @@
+name: cloudflare-2
+category: service
+service: cloudflare
+
+creator: ai
+tool: grok
+model: grok imagine
+
+animated: false
+variants:
+  - jpg
