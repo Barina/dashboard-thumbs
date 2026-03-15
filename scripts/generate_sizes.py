@@ -7,7 +7,7 @@ MAGICK = shutil.which("magick") or shutil.which("convert")
 IDENTIFY = shutil.which("identify")
 FORMATS = {"webp": ["webp"], "png": ["png"], "gif": ["gif"], "jpg": ["jpg", "jpeg"]}
 TARGETS = [512, 256, 128]
-pattern = re.compile(r"^(.*?)(?:@(\d+))?\.(.+)$")
+pattern = re.compile(r"^(.*?)(?:@(\d+))?\.(\w+)$")
 
 
 def run(cmd):
