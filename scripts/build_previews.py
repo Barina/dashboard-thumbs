@@ -18,8 +18,9 @@ def choose_preview(entry):
         sizes = files[fmt]
 
         for s in SIZE_PRIORITY:
-            if s in sizes:
-                return sizes[s]
+            key = str(s)
+            if key in sizes:
+                return sizes[key]
 
         # fallback to any available size
         return list(sizes.values())[0]
