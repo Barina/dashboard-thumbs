@@ -1,0 +1,11 @@
+name: unity-discussions
+category: service
+service: unity-discussions
+
+creator: ai
+tool: grok
+model: grok imagine
+
+animated: true
+variants:
+  - webp
