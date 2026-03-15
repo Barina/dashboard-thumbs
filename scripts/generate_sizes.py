@@ -5,6 +5,10 @@ import shutil
 
 MAGICK = shutil.which("magick") or shutil.which("convert")
 IDENTIFY = shutil.which("identify")
+
+if not MAGICK or not IDENTIFY:
+    raise RuntimeError("ImageMagick not installed")
+
 FORMATS = {"webp": ["webp"], "png": ["png"], "gif": ["gif"], "jpg": ["jpg", "jpeg"]}
 TARGETS = [512, 256, 128]
 pattern = re.compile(r"^(.*?)(?:@(\d+))?\.(\w+)$")
