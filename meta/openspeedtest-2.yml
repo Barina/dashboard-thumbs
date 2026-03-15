@@ -1,0 +1,11 @@
+name: openspeedtest-2
+category: service
+service: openspeedtest
+
+creator: ai
+tool: grok
+model: grok imagine
+
+animated: false
+variants:
+  - jpg
