@@ -34,6 +34,10 @@ jobs:
       - name: Build index
         run: |
           python3 build_index.py
+      
+      - name: Build previews
+        run: |
+          python3 scripts/build_previews.py
 
       - name: Commit generated files
         run: |
@@ -42,5 +46,5 @@ jobs:
 
           git add .
 
-          git diff --cached --quiet || git commit -m "auto: generate optimized thumbs and index"
+          git diff --cached --quiet || git commit -m "auto: generate optimized thumbs, index and previews"
           git push
