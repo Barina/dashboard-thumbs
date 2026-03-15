@@ -14,5 +14,9 @@
     "seerr": {
         "name": "Seerr",
         "website": "https://seerr.dev/"
+    },
+    "vscode": {
+        "name": "VSCode",
+        "website": "https://code.visualstudio.com/"
     }
 }

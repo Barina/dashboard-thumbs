@@ -1,0 +1,12 @@
+name: vscode
+category: programming
+service: vscode
+
+creator: ai
+tool: grok
+model: grok imagine
+
+animated: true
+variants:
+  - webp
+  - jpg
