@@ -1,0 +1,11 @@
+name: trakt
+category: service
+service: trakt
+
+creator: ai
+tool: grok
+model: grok imagine
+
+animated: true
+variants:
+  - webp
