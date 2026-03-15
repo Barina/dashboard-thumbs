@@ -1,0 +1,11 @@
+name: homarr
+category: service
+service: homarr
+
+creator: ai
+tool: chatgpt
+model: gpt
+
+animated: false
+variants:
+  - png
