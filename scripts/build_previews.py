@@ -58,7 +58,7 @@ def build():
         f.write("# Thumb Gallery\n\n")
         f.write("Auto-generated preview gallery.\n\n")
 
-        f.write("<p>\n")
+        f.write("<p>")
         for name, img in thumbs:
             f.write(
                 f"""
