@@ -10,4 +10,9 @@ Auto-generated preview gallery.
 dockhand
 </div>
 
+<div style="width:140px;text-align:center;font-size:12px;">
+<img src="webp/router@512.webp" width="96"><br>
+router
+</div>
+
 </div>

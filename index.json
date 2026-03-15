@@ -34,5 +34,41 @@
         "jpg"
       ]
     }
+  },
+  "router": {
+    "files": {
+      "webp": {
+        "512": "webp/router@512.webp",
+        "128": "webp/router@128.webp",
+        "256": "webp/router@256.webp"
+      },
+      "png": {
+        "512": "png/router@512.png",
+        "128": "png/router@128.png",
+        "256": "png/router@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png",
+      "webp"
+    ],
+    "meta": {
+      "name": "router",
+      "category": "generic",
+      "service": null,
+      "creator": "ai",
+      "tool": "chatgpt & grok",
+      "model": "gpt & grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "png"
+      ]
+    }
   }
 }
