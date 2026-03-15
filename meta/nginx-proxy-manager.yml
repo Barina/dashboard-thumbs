@@ -1,0 +1,12 @@
+name: nginx-proxy-manager
+category: service
+service: nginx-proxy-manager
+
+creator: ai
+tool: chatgpt & grok
+model: gpt & grok imagine
+
+animated: true
+variants:
+  - webp
+  - png
