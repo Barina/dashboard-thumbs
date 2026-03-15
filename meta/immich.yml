@@ -1,0 +1,11 @@
+name: immich
+category: service
+service: immich
+
+creator: ai
+tool: grok
+model: grok imagine
+
+animated: true
+variants:
+  - webp
