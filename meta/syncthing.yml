@@ -1,0 +1,11 @@
+name: syncthing
+category: service
+service: syncthing
+
+creator: ai
+tool: grok
+model: grok imagine
+
+animated: true
+variants:
+  - webp
