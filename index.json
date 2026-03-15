@@ -2,9 +2,14 @@
   "dockhand": {
     "files": {
       "webp": {
-        "128": "webp/dockhand@128.webp",
         "512": "webp/dockhand@512.webp",
+        "128": "webp/dockhand@128.webp",
         "256": "webp/dockhand@256.webp"
+      },
+      "jpg": {
+        "512": "jpg/dockhand@512.jpg",
+        "128": "jpg/dockhand@128.jpg",
+        "256": "jpg/dockhand@256.jpg"
       }
     },
     "sizes": [
@@ -13,6 +18,7 @@
       512
     ],
     "formats": [
+      "jpg",
       "webp"
     ],
     "meta": {
