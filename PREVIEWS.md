@@ -2,17 +2,12 @@
 
 Auto-generated preview gallery.
 
-<div style="display:flex;flex-wrap:wrap;gap:20px;">
+<p>
 
-
-<div style="width:140px;text-align:center;font-size:12px;">
-<img src="webp/dockhand@512.webp" width="96"><br>
-dockhand
-</div>
-
-<div style="width:140px;text-align:center;font-size:12px;">
-<img src="webp/router@512.webp" width="96"><br>
-router
-</div>
-
-</div>
+  <a href="webp/dockhand@256.webp">
+    <img src="webp/dockhand@256.webp" width="180" alt="dockhand">
+  </a>
+  <a href="webp/router@256.webp">
+    <img src="webp/router@256.webp" width="180" alt="router">
+  </a>
+</p>
