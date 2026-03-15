@@ -1,0 +1,11 @@
+name: adguard-home-2
+category: service
+service: adguard-home
+
+creator: ai
+tool: grok
+model: grok imagine
+
+animated: false
+variants:
+  - jpg
