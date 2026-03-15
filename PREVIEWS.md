@@ -3,7 +3,6 @@
 Auto-generated preview gallery.
 
 <p>
-
   <a href="webp/dockhand@256.webp">
     <img src="webp/dockhand@256.webp" width="180" alt="dockhand">
   </a>
