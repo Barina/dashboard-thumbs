@@ -1,0 +1,12 @@
+name: gotify
+category: service
+service: gotify
+
+creator: ai
+tool: grok
+model: grok imagine
+
+animated: true
+variants:
+  - webp
+  - jpg
