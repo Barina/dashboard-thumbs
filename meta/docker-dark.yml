@@ -1,0 +1,11 @@
+name: docker-dark
+category: service
+service: docker
+
+creator: ai
+tool: chatgpt
+model: gpt
+
+animated: false
+variants:
+  - png
