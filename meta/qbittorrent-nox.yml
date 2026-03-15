@@ -1,0 +1,12 @@
+name: qbittorrent-nox
+category: service
+service: qbittorrent-nox
+
+creator: ai
+tool: chatgpt & grok
+model: gpt & grok imagine
+
+animated: true
+variants:
+  - webp
+  - png
