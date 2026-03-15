@@ -1,4 +1,40 @@
 {
+  "auth": {
+    "files": {
+      "webp": {
+        "512": "webp/auth@512.webp",
+        "128": "webp/auth@128.webp",
+        "256": "webp/auth@256.webp"
+      },
+      "png": {
+        "512": "png/auth@512.png",
+        "128": "png/auth@128.png",
+        "256": "png/auth@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png",
+      "webp"
+    ],
+    "meta": {
+      "name": "auth",
+      "category": "generic",
+      "service": null,
+      "creator": "ai",
+      "tool": "chatgpt & grok",
+      "model": "gpt & grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "png"
+      ]
+    }
+  },
   "dockhand": {
     "files": {
       "webp": {
@@ -32,6 +68,42 @@
       "variants": [
         "webp",
         "jpg"
+      ]
+    }
+  },
+  "jellyseerr": {
+    "files": {
+      "webp": {
+        "512": "webp/jellyseerr@512.webp",
+        "128": "webp/jellyseerr@128.webp",
+        "256": "webp/jellyseerr@256.webp"
+      },
+      "png": {
+        "512": "png/jellyseerr@512.png",
+        "128": "png/jellyseerr@128.png",
+        "256": "png/jellyseerr@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png",
+      "webp"
+    ],
+    "meta": {
+      "name": "jellyseerr",
+      "category": "service",
+      "service": "seerr",
+      "creator": "ai",
+      "tool": "chatgpt & grok",
+      "model": "gpt & grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "png"
       ]
     }
   },
@@ -106,5 +178,75 @@
         "png"
       ]
     }
+  },
+  "vscode": {
+    "files": {
+      "webp": {
+        "512": "webp/vscode@512.webp",
+        "128": "webp/vscode@128.webp",
+        "256": "webp/vscode@256.webp"
+      },
+      "jpg": {
+        "512": "jpg/vscode@512.jpg",
+        "128": "jpg/vscode@128.jpg",
+        "256": "jpg/vscode@256.jpg"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "jpg",
+      "webp"
+    ],
+    "meta": {
+      "name": "vscode",
+      "category": "programming",
+      "service": "vscode",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "jpg"
+      ]
+    }
+  },
+  "vscode-2": {
+    "files": {
+      "jpg": {
+        "512": "jpg/vscode-2@512.jpg",
+        "128": "jpg/vscode-2@128.jpg",
+        "256": "jpg/vscode-2@256.jpg"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "jpg"
+    ]
+  },
+  "vscode-3": {
+    "files": {
+      "jpg": {
+        "512": "jpg/vscode-3@512.jpg",
+        "128": "jpg/vscode-3@128.jpg",
+        "256": "jpg/vscode-3@256.jpg"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "jpg"
+    ]
   }
 }
