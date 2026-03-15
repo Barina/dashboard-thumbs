@@ -18,5 +18,109 @@
     "vscode": {
         "name": "VSCode",
         "website": "https://code.visualstudio.com/"
+    },
+    "adguard-home": {
+        "name": "AdGuard Home",
+        "website": "https://adguard.com/"
+    },
+    "cloudflare": {
+        "name": "Cloudflare",
+        "website": "https://www.cloudflare.com/"
+    },
+    "controlr": {
+        "name": "ControlR",
+        "website": "https://controlr.app/"
+    },
+    "gotify": {
+        "name": "Gotify",
+        "website": "https://gotify.net/"
+    },
+    "openspeedtest": {
+        "name": "OpenSpeedTest",
+        "website": "https://openspeedtest.com/"
+    },
+    "tubesync": {
+        "name": "TubeSync",
+        "website": "https://github.com/meeb/tubesync"
+    },
+    "docker": {
+        "name": "Docker",
+        "website": "https://www.docker.com/"
+    },
+    "fuzer": {
+        "name": "Fuzer",
+        "website": "https://fuzer.me/"
+    },
+    "homarr": {
+        "name": "Homarr",
+        "website": "https://homarr.dev/"
+    },
+    "home-assistant": {
+        "name": "Home Assistant",
+        "website": "https://www.home-assistant.io/"
+    },
+    "n8n": {
+        "name": "n8n",
+        "website": "https://n8n.io/"
+    },
+    "nextcloud": {
+        "name": "Nextcloud",
+        "website": "https://nextcloud.com/"
+    },
+    "nginx-proxy-manager": {
+        "name": "Nginx Proxy Manager",
+        "website": "https://nginxproxymanager.com/"
+    },
+    "qbittorrent": {
+        "name": "qBittorrent",
+        "website": "https://www.qbittorrent.org/"
+    },
+    "torrentleech": {
+        "name": "Torrentleech",
+        "website": "https://www.torrentleech.org/"
+    },
+    "claude": {
+        "name": "Claude",
+        "website": "https://claude.ai/"
+    },
+    "feedly": {
+        "name": "Feedly",
+        "website": "https://feedly.com/"
+    },
+    "grok": {
+        "name": "Grok",
+        "website": "https://grok.com/"
+    },
+    "hebits": {
+        "name": "HeBits",
+        "website": "https://hebits.net/"
+    },
+    "plex": {
+        "name": "Plex",
+        "website": "https://www.plex.tv/"
+    },
+    "steam": {
+        "name": "Steam",
+        "website": "https://store.steampowered.com/"
+    },
+    "syncthing": {
+        "name": "Syncthing",
+        "website": "https://syncthing.net/"
+    },
+    "trakt": {
+        "name": "Trakt",
+        "website": "https://trakt.tv/"
+    },
+    "tvtime": {
+        "name": "TVTime",
+        "website": "https://app.tvtime.com/"
+    },
+    "unity": {
+        "name": "Unity",
+        "website": "https://unity.com/"
+    },
+    "white-screen": {
+        "name": "White Screen",
+        "website": "https://www.whitescreen.online/"
     }
 }
