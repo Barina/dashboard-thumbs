@@ -1,0 +1,12 @@
+name: n8n
+category: service
+service: n8n
+
+creator: ai
+tool: chatgpt & grok
+model: gpt & grok imagine
+
+animated: true
+variants:
+  - webp
+  - png
