@@ -1,0 +1,12 @@
+name: fuzer
+category: service
+service: fuzer
+
+creator: ai
+tool: chatgpt & grok
+model: gpt & grok imagine
+
+animated: true
+variants:
+  - webp
+  - png
