@@ -39,7 +39,7 @@ Please read the [contributing](CONTRIBUTING.md) page before submitting thumbs.
 |--------|--------|--------|--------|--------|
 | Adguard Home | Docker | Dockhand | Gotify | Home Assistant |
 | ![](webp/adguard-home@256.webp) | ![](webp/docker@256.webp) | ![](webp/dockhand@256.webp) | ![](webp/gotify@256.webp) | ![](webp/home-assistant@256.webp) | 
-| Meelo | n8n | Router | Seer | TubeSync |
+| Meelo | n8n | Router | Seerr | TubeSync |
 | ![](webp/meelo@256.webp) | ![](webp/n8n@256.webp) | ![](webp/router@256.webp) | ![](webp/jellyseerr@256.webp) | ![](webp/tubesync@256.webp) | 
 
 > [!NOTE]
