@@ -1,4 +1,40 @@
 {
+  "adguard-home": {
+    "files": {
+      "webp": {
+        "512": "webp/adguard-home@512.webp",
+        "128": "webp/adguard-home@128.webp",
+        "256": "webp/adguard-home@256.webp"
+      },
+      "jpg": {
+        "512": "jpg/adguard-home@512.jpg",
+        "128": "jpg/adguard-home@128.jpg",
+        "256": "jpg/adguard-home@256.jpg"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "jpg",
+      "webp"
+    ],
+    "meta": {
+      "name": "adguard-home",
+      "category": "service",
+      "service": "adguard-home",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "jpg"
+      ]
+    }
+  },
   "auth": {
     "files": {
       "webp": {
@@ -25,6 +61,114 @@
       "name": "auth",
       "category": "generic",
       "service": null,
+      "creator": "ai",
+      "tool": "chatgpt & grok",
+      "model": "gpt & grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "png"
+      ]
+    }
+  },
+  "cloudflare": {
+    "files": {
+      "webp": {
+        "512": "webp/cloudflare@512.webp",
+        "128": "webp/cloudflare@128.webp",
+        "256": "webp/cloudflare@256.webp"
+      },
+      "jpg": {
+        "512": "jpg/cloudflare@512.jpg",
+        "128": "jpg/cloudflare@128.jpg",
+        "256": "jpg/cloudflare@256.jpg"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "jpg",
+      "webp"
+    ],
+    "meta": {
+      "name": "cloudflare",
+      "category": "service",
+      "service": "cloudflare",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "jpg"
+      ]
+    }
+  },
+  "controlr": {
+    "files": {
+      "webp": {
+        "512": "webp/controlr@512.webp",
+        "128": "webp/controlr@128.webp",
+        "256": "webp/controlr@256.webp"
+      },
+      "jpg": {
+        "512": "jpg/controlr@512.jpg",
+        "128": "jpg/controlr@128.jpg",
+        "256": "jpg/controlr@256.jpg"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "jpg",
+      "webp"
+    ],
+    "meta": {
+      "name": "controlr",
+      "category": "service",
+      "service": "controlr",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "jpg"
+      ]
+    }
+  },
+  "docker": {
+    "files": {
+      "webp": {
+        "512": "webp/docker@512.webp",
+        "128": "webp/docker@128.webp",
+        "256": "webp/docker@256.webp"
+      },
+      "png": {
+        "512": "png/docker@512.png",
+        "128": "png/docker@128.png",
+        "256": "png/docker@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png",
+      "webp"
+    ],
+    "meta": {
+      "name": "docker",
+      "category": "service",
+      "service": "docker",
       "creator": "ai",
       "tool": "chatgpt & grok",
       "model": "gpt & grok imagine",
@@ -68,6 +212,201 @@
       "variants": [
         "webp",
         "jpg"
+      ]
+    }
+  },
+  "feedly": {
+    "files": {
+      "webp": {
+        "512": "webp/feedly@512.webp",
+        "128": "webp/feedly@128.webp",
+        "256": "webp/feedly@256.webp"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "webp"
+    ],
+    "meta": {
+      "name": "feedly",
+      "category": "service",
+      "service": "feedly",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": true,
+      "variants": [
+        "webp"
+      ]
+    }
+  },
+  "fuzer": {
+    "files": {
+      "webp": {
+        "512": "webp/fuzer@512.webp",
+        "128": "webp/fuzer@128.webp",
+        "256": "webp/fuzer@256.webp"
+      },
+      "png": {
+        "512": "png/fuzer@512.png",
+        "128": "png/fuzer@128.png",
+        "256": "png/fuzer@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png",
+      "webp"
+    ],
+    "meta": {
+      "name": "fuzer",
+      "category": "service",
+      "service": "fuzer",
+      "creator": "ai",
+      "tool": "chatgpt & grok",
+      "model": "gpt & grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "png"
+      ]
+    }
+  },
+  "gotify": {
+    "files": {
+      "webp": {
+        "512": "webp/gotify@512.webp",
+        "128": "webp/gotify@128.webp",
+        "256": "webp/gotify@256.webp"
+      },
+      "jpg": {
+        "512": "jpg/gotify@512.jpg",
+        "128": "jpg/gotify@128.jpg",
+        "256": "jpg/gotify@256.jpg"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "jpg",
+      "webp"
+    ],
+    "meta": {
+      "name": "gotify",
+      "category": "service",
+      "service": "gotify",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "jpg"
+      ]
+    }
+  },
+  "hebits": {
+    "files": {
+      "webp": {
+        "512": "webp/hebits@512.webp",
+        "128": "webp/hebits@128.webp",
+        "256": "webp/hebits@256.webp"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "webp"
+    ],
+    "meta": {
+      "name": "hebits",
+      "category": "service",
+      "service": "hebits",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": true,
+      "variants": [
+        "webp"
+      ]
+    }
+  },
+  "home-assistant": {
+    "files": {
+      "webp": {
+        "512": "webp/home-assistant@512.webp",
+        "128": "webp/home-assistant@128.webp",
+        "256": "webp/home-assistant@256.webp"
+      },
+      "png": {
+        "512": "png/home-assistant@512.png",
+        "128": "png/home-assistant@128.png",
+        "256": "png/home-assistant@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png",
+      "webp"
+    ],
+    "meta": {
+      "name": "home-assistant",
+      "category": "service",
+      "service": "home-assistant",
+      "creator": "ai",
+      "tool": "chatgpt & grok",
+      "model": "gpt & grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "png"
+      ]
+    }
+  },
+  "immich": {
+    "files": {
+      "webp": {
+        "512": "webp/immich@512.webp",
+        "128": "webp/immich@128.webp",
+        "256": "webp/immich@256.webp"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "webp"
+    ],
+    "meta": {
+      "name": "immich",
+      "category": "service",
+      "service": "immich",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": true,
+      "variants": [
+        "webp"
       ]
     }
   },
@@ -143,6 +482,244 @@
       ]
     }
   },
+  "n8n": {
+    "files": {
+      "webp": {
+        "512": "webp/n8n@512.webp",
+        "128": "webp/n8n@128.webp",
+        "256": "webp/n8n@256.webp"
+      },
+      "png": {
+        "512": "png/n8n@512.png",
+        "128": "png/n8n@128.png",
+        "256": "png/n8n@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png",
+      "webp"
+    ],
+    "meta": {
+      "name": "n8n",
+      "category": "service",
+      "service": "n8n",
+      "creator": "ai",
+      "tool": "chatgpt & grok",
+      "model": "gpt & grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "png"
+      ]
+    }
+  },
+  "nextcloud": {
+    "files": {
+      "webp": {
+        "512": "webp/nextcloud@512.webp",
+        "128": "webp/nextcloud@128.webp",
+        "256": "webp/nextcloud@256.webp"
+      },
+      "png": {
+        "512": "png/nextcloud@512.png",
+        "128": "png/nextcloud@128.png",
+        "256": "png/nextcloud@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png",
+      "webp"
+    ],
+    "meta": {
+      "name": "nextcloud",
+      "category": "service",
+      "service": "nextcloud",
+      "creator": "ai",
+      "tool": "chatgpt & grok",
+      "model": "gpt & grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "png"
+      ]
+    }
+  },
+  "nginx-proxy-manager-2": {
+    "files": {
+      "webp": {
+        "512": "webp/nginx-proxy-manager-2@512.webp",
+        "128": "webp/nginx-proxy-manager-2@128.webp",
+        "256": "webp/nginx-proxy-manager-2@256.webp"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "webp"
+    ],
+    "meta": {
+      "name": "nginx-proxy-manager-2",
+      "category": "service",
+      "service": "nginx-proxy-manager",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": true,
+      "variants": [
+        "webp"
+      ]
+    }
+  },
+  "nginx-proxy-manager": {
+    "files": {
+      "webp": {
+        "512": "webp/nginx-proxy-manager@512.webp",
+        "128": "webp/nginx-proxy-manager@128.webp",
+        "256": "webp/nginx-proxy-manager@256.webp"
+      },
+      "png": {
+        "512": "png/nginx-proxy-manager@512.png",
+        "128": "png/nginx-proxy-manager@128.png",
+        "256": "png/nginx-proxy-manager@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png",
+      "webp"
+    ],
+    "meta": {
+      "name": "nginx-proxy-manager",
+      "category": "service",
+      "service": "nginx-proxy-manager",
+      "creator": "ai",
+      "tool": "chatgpt & grok",
+      "model": "gpt & grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "png"
+      ]
+    }
+  },
+  "ollama": {
+    "files": {
+      "webp": {
+        "512": "webp/ollama@512.webp",
+        "128": "webp/ollama@128.webp",
+        "256": "webp/ollama@256.webp"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "webp"
+    ],
+    "meta": {
+      "name": "ollama",
+      "category": "service",
+      "service": "ollama",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": true,
+      "variants": [
+        "webp"
+      ]
+    }
+  },
+  "openspeedtest": {
+    "files": {
+      "webp": {
+        "512": "webp/openspeedtest@512.webp",
+        "128": "webp/openspeedtest@128.webp",
+        "256": "webp/openspeedtest@256.webp"
+      },
+      "jpg": {
+        "512": "jpg/openspeedtest@512.jpg",
+        "128": "jpg/openspeedtest@128.jpg",
+        "256": "jpg/openspeedtest@256.jpg"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "jpg",
+      "webp"
+    ],
+    "meta": {
+      "name": "openspeedtest",
+      "category": "service",
+      "service": "openspeedtest",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "jpg"
+      ]
+    }
+  },
+  "qbittorrent-nox": {
+    "files": {
+      "webp": {
+        "512": "webp/qbittorrent-nox@512.webp",
+        "128": "webp/qbittorrent-nox@128.webp",
+        "256": "webp/qbittorrent-nox@256.webp"
+      },
+      "png": {
+        "512": "png/qbittorrent-nox@512.png",
+        "128": "png/qbittorrent-nox@128.png",
+        "256": "png/qbittorrent-nox@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png",
+      "webp"
+    ],
+    "meta": {
+      "name": "qbittorrent-nox",
+      "category": "service",
+      "service": "qbittorrent-nox",
+      "creator": "ai",
+      "tool": "chatgpt & grok",
+      "model": "gpt & grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "png"
+      ]
+    }
+  },
   "router": {
     "files": {
       "webp": {
@@ -179,6 +756,230 @@
       ]
     }
   },
+  "syncthing": {
+    "files": {
+      "webp": {
+        "512": "webp/syncthing@512.webp",
+        "128": "webp/syncthing@128.webp",
+        "256": "webp/syncthing@256.webp"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "webp"
+    ],
+    "meta": {
+      "name": "syncthing",
+      "category": "service",
+      "service": "syncthing",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": true,
+      "variants": [
+        "webp"
+      ]
+    }
+  },
+  "torrentleech": {
+    "files": {
+      "webp": {
+        "512": "webp/torrentleech@512.webp",
+        "128": "webp/torrentleech@128.webp",
+        "256": "webp/torrentleech@256.webp"
+      },
+      "png": {
+        "512": "png/torrentleech@512.png",
+        "128": "png/torrentleech@128.png",
+        "256": "png/torrentleech@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png",
+      "webp"
+    ],
+    "meta": {
+      "name": "torrentleech",
+      "category": "service",
+      "service": "torrentleech",
+      "creator": "ai",
+      "tool": "chatgpt & grok",
+      "model": "gpt & grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "png"
+      ]
+    }
+  },
+  "trakt": {
+    "files": {
+      "webp": {
+        "512": "webp/trakt@512.webp",
+        "128": "webp/trakt@128.webp",
+        "256": "webp/trakt@256.webp"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "webp"
+    ],
+    "meta": {
+      "name": "trakt",
+      "category": "service",
+      "service": "trakt",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": true,
+      "variants": [
+        "webp"
+      ]
+    }
+  },
+  "tubesync": {
+    "files": {
+      "webp": {
+        "512": "webp/tubesync@512.webp",
+        "128": "webp/tubesync@128.webp",
+        "256": "webp/tubesync@256.webp"
+      },
+      "jpg": {
+        "512": "jpg/tubesync@512.jpg",
+        "128": "jpg/tubesync@128.jpg",
+        "256": "jpg/tubesync@256.jpg"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "jpg",
+      "webp"
+    ],
+    "meta": {
+      "name": "tubesync",
+      "category": "service",
+      "service": "tubesync",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "jpg"
+      ]
+    }
+  },
+  "tvtime": {
+    "files": {
+      "webp": {
+        "512": "webp/tvtime@512.webp",
+        "128": "webp/tvtime@128.webp",
+        "256": "webp/tvtime@256.webp"
+      },
+      "png": {
+        "512": "png/tvtime@512.png",
+        "128": "png/tvtime@128.png",
+        "256": "png/tvtime@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png",
+      "webp"
+    ],
+    "meta": {
+      "name": "tvtime",
+      "category": "service",
+      "service": "tvtime",
+      "creator": "ai",
+      "tool": "gpt & grok",
+      "model": "gtp & grok imagine",
+      "animated": true,
+      "variants": [
+        "webp",
+        "png"
+      ]
+    }
+  },
+  "unity-discussions": {
+    "files": {
+      "webp": {
+        "512": "webp/unity-discussions@512.webp",
+        "128": "webp/unity-discussions@128.webp",
+        "256": "webp/unity-discussions@256.webp"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "webp"
+    ],
+    "meta": {
+      "name": "unity-discussions",
+      "category": "service",
+      "service": "unity-discussions",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": true,
+      "variants": [
+        "webp"
+      ]
+    }
+  },
+  "unity": {
+    "files": {
+      "webp": {
+        "512": "webp/unity@512.webp",
+        "128": "webp/unity@128.webp",
+        "256": "webp/unity@256.webp"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "webp"
+    ],
+    "meta": {
+      "name": "unity",
+      "category": "service",
+      "service": "unity",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": true,
+      "variants": [
+        "webp"
+      ]
+    }
+  },
   "vscode": {
     "files": {
       "webp": {
@@ -211,6 +1012,238 @@
       "animated": true,
       "variants": [
         "webp",
+        "jpg"
+      ]
+    }
+  },
+  "white-screen": {
+    "files": {
+      "webp": {
+        "512": "webp/white-screen@512.webp",
+        "128": "webp/white-screen@128.webp",
+        "256": "webp/white-screen@256.webp"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "webp"
+    ],
+    "meta": {
+      "name": "white-screen",
+      "category": "service",
+      "service": "white-screen",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": true,
+      "variants": [
+        "webp"
+      ]
+    }
+  },
+  "docker-dark": {
+    "files": {
+      "png": {
+        "512": "png/docker-dark@512.png",
+        "128": "png/docker-dark@128.png",
+        "256": "png/docker-dark@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png"
+    ],
+    "meta": {
+      "name": "docker-dark",
+      "category": "service",
+      "service": "docker",
+      "creator": "ai",
+      "tool": "chatgpt",
+      "model": "gpt",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
+  },
+  "homarr-2": {
+    "files": {
+      "png": {
+        "512": "png/homarr-2@512.png",
+        "128": "png/homarr-2@128.png",
+        "256": "png/homarr-2@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png"
+    ],
+    "meta": {
+      "name": "homarr-2",
+      "category": "service",
+      "service": "homarr",
+      "creator": "ai",
+      "tool": "chatgpt",
+      "model": "gpt",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
+  },
+  "homarr": {
+    "files": {
+      "png": {
+        "512": "png/homarr@512.png",
+        "128": "png/homarr@128.png",
+        "256": "png/homarr@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png"
+    ],
+    "meta": {
+      "name": "homarr",
+      "category": "service",
+      "service": "homarr",
+      "creator": "ai",
+      "tool": "chatgpt",
+      "model": "gpt",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
+  },
+  "nextcloud-2": {
+    "files": {
+      "png": {
+        "512": "png/nextcloud-2@512.png",
+        "128": "png/nextcloud-2@128.png",
+        "256": "png/nextcloud-2@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png"
+    ],
+    "meta": {
+      "name": "nextcloud-2",
+      "category": "service",
+      "service": "nextcloud",
+      "creator": "ai",
+      "tool": "chatgpt",
+      "model": "gpt",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
+  },
+  "adguard-home-2": {
+    "files": {
+      "jpg": {
+        "512": "jpg/adguard-home-2@512.jpg",
+        "128": "jpg/adguard-home-2@128.jpg",
+        "256": "jpg/adguard-home-2@256.jpg"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "jpg"
+    ],
+    "meta": {
+      "name": "adguard-home-2",
+      "category": "service",
+      "service": "adguard-home",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": false,
+      "variants": [
+        "jpg"
+      ]
+    }
+  },
+  "cloudflare-2": {
+    "files": {
+      "jpg": {
+        "512": "jpg/cloudflare-2@512.jpg",
+        "128": "jpg/cloudflare-2@128.jpg",
+        "256": "jpg/cloudflare-2@256.jpg"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "jpg"
+    ],
+    "meta": {
+      "name": "cloudflare-2",
+      "category": "service",
+      "service": "cloudflare",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": false,
+      "variants": [
+        "jpg"
+      ]
+    }
+  },
+  "openspeedtest-2": {
+    "files": {
+      "jpg": {
+        "512": "jpg/openspeedtest-2@512.jpg",
+        "128": "jpg/openspeedtest-2@128.jpg",
+        "256": "jpg/openspeedtest-2@256.jpg"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "jpg"
+    ],
+    "meta": {
+      "name": "openspeedtest-2",
+      "category": "service",
+      "service": "openspeedtest",
+      "creator": "ai",
+      "tool": "grok",
+      "model": "grok imagine",
+      "animated": false,
+      "variants": [
         "jpg"
       ]
     }
