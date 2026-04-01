@@ -1,0 +1,11 @@
+name: grok
+category: service
+service: grok
+
+creator: ai
+tool: chatGPT
+model: DALL-E
+
+animated: false
+variants:
+  - png
