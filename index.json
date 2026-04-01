@@ -1045,6 +1045,35 @@
       ]
     }
   },
+  "claude": {
+    "files": {
+      "png": {
+        "512": "png/claude@512.png",
+        "128": "png/claude@128.png",
+        "256": "png/claude@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png"
+    ],
+    "meta": {
+      "name": "claude",
+      "category": "service",
+      "service": "claude",
+      "creator": "ai",
+      "tool": "chatGPT",
+      "model": "DALL-E",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
+  },
   "docker-dark": {
     "files": {
       "png": {
@@ -1068,6 +1097,64 @@
       "creator": "ai",
       "tool": "chatgpt",
       "model": "gpt",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
+  },
+  "grok": {
+    "files": {
+      "png": {
+        "512": "png/grok@512.png",
+        "128": "png/grok@128.png",
+        "256": "png/grok@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png"
+    ],
+    "meta": {
+      "name": "grok",
+      "category": "service",
+      "service": "grok",
+      "creator": "ai",
+      "tool": "chatGPT",
+      "model": "DALL-E",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
+  },
+  "hetzner": {
+    "files": {
+      "png": {
+        "512": "png/hetzner@512.png",
+        "128": "png/hetzner@128.png",
+        "256": "png/hetzner@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png"
+    ],
+    "meta": {
+      "name": "hetzner",
+      "category": "service",
+      "service": "hetzner",
+      "creator": "ai",
+      "tool": "chatGPT",
+      "model": "DALL-E",
       "animated": false,
       "variants": [
         "png"

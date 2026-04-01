@@ -12,6 +12,9 @@ Auto-generated preview gallery.
   <a href="webp/auth@256.webp">
     <img src="webp/auth@256.webp" width="180" alt="auth">
   </a>
+  <a href="png/claude@256.png">
+    <img src="png/claude@256.png" width="180" alt="claude">
+  </a>
   <a href="webp/cloudflare@256.webp">
     <img src="webp/cloudflare@256.webp" width="180" alt="cloudflare">
   </a>
@@ -39,8 +42,14 @@ Auto-generated preview gallery.
   <a href="webp/gotify@256.webp">
     <img src="webp/gotify@256.webp" width="180" alt="gotify">
   </a>
+  <a href="png/grok@256.png">
+    <img src="png/grok@256.png" width="180" alt="grok">
+  </a>
   <a href="webp/hebits@256.webp">
     <img src="webp/hebits@256.webp" width="180" alt="hebits">
+  </a>
+  <a href="png/hetzner@256.png">
+    <img src="png/hetzner@256.png" width="180" alt="hetzner">
   </a>
   <a href="png/homarr-2@256.png">
     <img src="png/homarr-2@256.png" width="180" alt="homarr">
