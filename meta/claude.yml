@@ -1,0 +1,11 @@
+name: claude
+category: service
+service: claude
+
+creator: ai
+tool: chatGPT
+model: DALL-E
+
+animated: false
+variants:
+  - png
