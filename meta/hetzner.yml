@@ -1,0 +1,11 @@
+name: hetzner
+category: service
+service: hetzner
+
+creator: ai
+tool: chatGPT
+model: DALL-E
+
+animated: false
+variants:
+  - png

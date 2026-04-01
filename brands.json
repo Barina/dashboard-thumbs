@@ -126,5 +126,9 @@
     "white-screen": {
         "name": "White Screen",
         "website": "https://www.whitescreen.online/"
+    },
+    "hetzner": {
+        "name": "Hetzner",
+        "website": "https://www.hetzner.com/"
     }
 }
