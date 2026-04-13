@@ -1248,6 +1248,35 @@
       ]
     }
   },
+  "ryot": {
+    "files": {
+      "png": {
+        "512": "png/ryot@512.png",
+        "128": "png/ryot@128.png",
+        "256": "png/ryot@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png"
+    ],
+    "meta": {
+      "name": "ryot",
+      "category": "service",
+      "service": "ryot",
+      "creator": "ai",
+      "tool": "ComfyUI",
+      "model": "Flux2, qwen3",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
+  },
   "adguard-home-2": {
     "files": {
       "jpg": {

@@ -96,6 +96,9 @@ Auto-generated preview gallery.
   <a href="webp/router@256.webp">
     <img src="webp/router@256.webp" width="180" alt="router">
   </a>
+  <a href="png/ryot@256.png">
+    <img src="png/ryot@256.png" width="180" alt="ryot">
+  </a>
   <a href="webp/jellyseerr@256.webp">
     <img src="webp/jellyseerr@256.webp" width="180" alt="seerr">
   </a>
