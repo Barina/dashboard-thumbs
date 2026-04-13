@@ -130,5 +130,9 @@
     "hetzner": {
         "name": "Hetzner",
         "website": "https://www.hetzner.com/"
+    },
+    "ryot": {
+        "name": "Ryot",
+        "website": "https://www.ryot.io/"
     }
 }

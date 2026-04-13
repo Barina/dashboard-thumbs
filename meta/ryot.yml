@@ -1,0 +1,11 @@
+name: ryot
+category: service
+service: ryot
+
+creator: ai
+tool: ComfyUI
+model: Flux2, qwen3
+
+animated: false
+variants:
+  - png
