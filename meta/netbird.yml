@@ -1,0 +1,11 @@
+name: netbird
+category: service
+service: netbird
+
+creator: ai
+tool: ComfyUI
+model: Flux2, qwen3
+
+animated: false
+variants:
+  - png

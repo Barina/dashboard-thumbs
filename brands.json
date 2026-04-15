@@ -134,5 +134,9 @@
     "ryot": {
         "name": "Ryot",
         "website": "https://www.ryot.io/"
+    },
+    "netbird": {
+        "name": "NetBird",
+        "website": "https://www.netbird.io/"
     }
 }
