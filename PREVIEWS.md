@@ -69,6 +69,9 @@ Auto-generated preview gallery.
   <a href="webp/n8n@256.webp">
     <img src="webp/n8n@256.webp" width="180" alt="n8n">
   </a>
+  <a href="png/netbird@256.png">
+    <img src="png/netbird@256.png" width="180" alt="netbird">
+  </a>
   <a href="webp/nextcloud@256.webp">
     <img src="webp/nextcloud@256.webp" width="180" alt="nextcloud">
   </a>

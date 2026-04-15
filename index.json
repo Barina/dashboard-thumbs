@@ -1219,6 +1219,35 @@
       ]
     }
   },
+  "netbird": {
+    "files": {
+      "png": {
+        "512": "png/netbird@512.png",
+        "128": "png/netbird@128.png",
+        "256": "png/netbird@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png"
+    ],
+    "meta": {
+      "name": "netbird",
+      "category": "service",
+      "service": "netbird",
+      "creator": "ai",
+      "tool": "ComfyUI",
+      "model": "Flux2, qwen3",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
+  },
   "nextcloud-2": {
     "files": {
       "png": {
