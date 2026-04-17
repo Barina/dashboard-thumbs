@@ -1,0 +1,11 @@
+name: sonarr-dark
+category: service
+service: sonarr
+
+creator: ai
+tool: chatGPT
+model: DALL-E
+
+animated: false
+variants:
+  - png

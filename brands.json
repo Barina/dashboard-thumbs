@@ -138,5 +138,9 @@
     "netbird": {
         "name": "NetBird",
         "website": "https://www.netbird.io/"
+    },
+    "sonarr": {
+        "name": "Sonarr",
+        "website": "https://www.sonarr.tv/"
     }
 }
