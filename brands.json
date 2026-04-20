@@ -142,5 +142,9 @@
     "sonarr": {
         "name": "Sonarr",
         "website": "https://www.sonarr.tv/"
+    },
+    "bazarr": {
+        "name": "Bazarr",
+        "website": "https://www.bazarr.media/"
     }
 }

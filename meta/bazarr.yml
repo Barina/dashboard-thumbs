@@ -1,0 +1,11 @@
+name: bazzarr
+category: service
+service: bazzarr
+
+creator: ai
+tool: chatGPT
+model: DALL-E
+
+animated: false
+variants:
+  - png
