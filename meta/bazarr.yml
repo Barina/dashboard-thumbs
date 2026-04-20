@@ -1,6 +1,6 @@
-name: bazzarr
+name: bazarr
 category: service
-service: bazzarr
+service: bazarr
 
 creator: ai
 tool: chatGPT

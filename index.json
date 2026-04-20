@@ -1060,7 +1060,19 @@
     ],
     "formats": [
       "png"
-    ]
+    ],
+    "meta": {
+      "name": "bazarr",
+      "category": "service",
+      "service": "bazarr",
+      "creator": "ai",
+      "tool": "chatGPT",
+      "model": "DALL-E",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
   },
   "claude": {
     "files": {
@@ -1530,19 +1542,5 @@
     "formats": [
       "jpg"
     ]
-  },
-  "bazzarr": {
-    "meta": {
-      "name": "bazzarr",
-      "category": "service",
-      "service": "bazzarr",
-      "creator": "ai",
-      "tool": "chatGPT",
-      "model": "DALL-E",
-      "animated": false,
-      "variants": [
-        "png"
-      ]
-    }
   }
 }
