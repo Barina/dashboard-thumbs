@@ -12,6 +12,9 @@ Auto-generated preview gallery.
   <a href="webp/auth@256.webp">
     <img src="webp/auth@256.webp" width="180" alt="auth">
   </a>
+  <a href="png/bazarr@256.png">
+    <img src="png/bazarr@256.png" width="180" alt="bazarr">
+  </a>
   <a href="png/claude@256.png">
     <img src="png/claude@256.png" width="180" alt="claude">
   </a>
@@ -93,8 +96,14 @@ Auto-generated preview gallery.
   <a href="jpg/openspeedtest-2@256.jpg">
     <img src="jpg/openspeedtest-2@256.jpg" width="180" alt="openspeedtest">
   </a>
+  <a href="png/prowlarr@256.png">
+    <img src="png/prowlarr@256.png" width="180" alt="prowlarr">
+  </a>
   <a href="webp/qbittorrent-nox@256.webp">
     <img src="webp/qbittorrent-nox@256.webp" width="180" alt="qbittorrent-nox">
+  </a>
+  <a href="png/radarr@256.png">
+    <img src="png/radarr@256.png" width="180" alt="radarr">
   </a>
   <a href="webp/router@256.webp">
     <img src="webp/router@256.webp" width="180" alt="router">

@@ -1045,6 +1045,23 @@
       ]
     }
   },
+  "bazarr": {
+    "files": {
+      "png": {
+        "512": "png/bazarr@512.png",
+        "128": "png/bazarr@128.png",
+        "256": "png/bazarr@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png"
+    ]
+  },
   "claude": {
     "files": {
       "png": {
@@ -1277,6 +1294,64 @@
       ]
     }
   },
+  "prowlarr": {
+    "files": {
+      "png": {
+        "512": "png/prowlarr@512.png",
+        "128": "png/prowlarr@128.png",
+        "256": "png/prowlarr@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png"
+    ],
+    "meta": {
+      "name": "prowlarr",
+      "category": "service",
+      "service": "prowlarr",
+      "creator": "ai",
+      "tool": "chatGPT",
+      "model": "DALL-E",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
+  },
+  "radarr": {
+    "files": {
+      "png": {
+        "512": "png/radarr@512.png",
+        "128": "png/radarr@128.png",
+        "256": "png/radarr@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png"
+    ],
+    "meta": {
+      "name": "radarr",
+      "category": "service",
+      "service": "radarr",
+      "creator": "ai",
+      "tool": "chatGPT",
+      "model": "DALL-E",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
+  },
   "ryot": {
     "files": {
       "png": {
@@ -1455,5 +1530,19 @@
     "formats": [
       "jpg"
     ]
+  },
+  "bazzarr": {
+    "meta": {
+      "name": "bazzarr",
+      "category": "service",
+      "service": "bazzarr",
+      "creator": "ai",
+      "tool": "chatGPT",
+      "model": "DALL-E",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
   }
 }
