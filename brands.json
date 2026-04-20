@@ -150,5 +150,9 @@
     "radarr": {
         "name": "Radarr",
         "website": "https://www.radarr.video/"
+    },
+    "prowlarr": {
+        "name": "Prowlarr",
+        "website": "https://www.prowlarr.com/"
     }
 }

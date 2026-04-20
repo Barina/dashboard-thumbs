@@ -1,0 +1,11 @@
+name: prowlarr
+category: service
+service: prowlarr
+
+creator: ai
+tool: chatGPT
+model: DALL-E
+
+animated: false
+variants:
+  - png
