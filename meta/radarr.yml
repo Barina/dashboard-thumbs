@@ -1,0 +1,11 @@
+name: radarr
+category: service
+service: radarr
+
+creator: ai
+tool: chatGPT
+model: DALL-E
+
+animated: false
+variants:
+  - png

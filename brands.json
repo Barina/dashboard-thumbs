@@ -146,5 +146,9 @@
     "bazarr": {
         "name": "Bazarr",
         "website": "https://www.bazarr.media/"
+    },
+    "radarr": {
+        "name": "Radarr",
+        "website": "https://www.radarr.video/"
     }
 }
