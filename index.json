@@ -1422,6 +1422,35 @@
       ]
     }
   },
+  "sonarr": {
+    "files": {
+      "png": {
+        "512": "png/sonarr@512.png",
+        "128": "png/sonarr@128.png",
+        "256": "png/sonarr@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png"
+    ],
+    "meta": {
+      "name": "sonarr",
+      "category": "service",
+      "service": "sonarr",
+      "creator": "ai",
+      "tool": "chatGPT",
+      "model": "DALL-E",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
+  },
   "adguard-home-2": {
     "files": {
       "jpg": {

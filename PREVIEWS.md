@@ -117,6 +117,9 @@ Auto-generated preview gallery.
   <a href="png/sonarr-dark@256.png">
     <img src="png/sonarr-dark@256.png" width="180" alt="sonarr">
   </a>
+  <a href="png/sonarr@256.png">
+    <img src="png/sonarr@256.png" width="180" alt="sonarr">
+  </a>
   <a href="webp/syncthing@256.webp">
     <img src="webp/syncthing@256.webp" width="180" alt="syncthing">
   </a>
