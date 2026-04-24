@@ -1132,6 +1132,35 @@
       ]
     }
   },
+  "comfyui": {
+    "files": {
+      "png": {
+        "512": "png/comfyui@512.png",
+        "128": "png/comfyui@128.png",
+        "256": "png/comfyui@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png"
+    ],
+    "meta": {
+      "name": "comfyui",
+      "category": "service",
+      "service": "comfyui",
+      "creator": "ai",
+      "tool": "chatGPT",
+      "model": "DALL-E",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
+  },
   "docker-dark": {
     "files": {
       "png": {
@@ -1277,6 +1306,35 @@
       ]
     }
   },
+  "immich-2": {
+    "files": {
+      "png": {
+        "512": "png/immich-2@512.png",
+        "128": "png/immich-2@128.png",
+        "256": "png/immich-2@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png"
+    ],
+    "meta": {
+      "name": "immich-2",
+      "category": "service",
+      "service": "immich",
+      "creator": "ai",
+      "tool": "chatGPT",
+      "model": "DALL-E",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
+  },
   "netbird": {
     "files": {
       "png": {
@@ -1329,6 +1387,35 @@
       "creator": "ai",
       "tool": "chatgpt",
       "model": "gpt",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
+  },
+  "open-webui": {
+    "files": {
+      "png": {
+        "512": "png/open-webui@512.png",
+        "128": "png/open-webui@128.png",
+        "256": "png/open-webui@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png"
+    ],
+    "meta": {
+      "name": "open-webui",
+      "category": "service",
+      "service": "open-webui",
+      "creator": "ai",
+      "tool": "chatGPT",
+      "model": "DALL-E",
       "animated": false,
       "variants": [
         "png"
@@ -1471,6 +1558,35 @@
       "name": "sonarr",
       "category": "service",
       "service": "sonarr",
+      "creator": "ai",
+      "tool": "chatGPT",
+      "model": "DALL-E",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
+  },
+  "uptime-kuma": {
+    "files": {
+      "png": {
+        "512": "png/uptime-kuma@512.png",
+        "128": "png/uptime-kuma@128.png",
+        "256": "png/uptime-kuma@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png"
+    ],
+    "meta": {
+      "name": "uptime-kuma",
+      "category": "service",
+      "service": "uptime-kuma",
       "creator": "ai",
       "tool": "chatGPT",
       "model": "DALL-E",

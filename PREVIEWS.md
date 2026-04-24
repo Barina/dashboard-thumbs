@@ -27,6 +27,9 @@ Auto-generated preview gallery.
   <a href="jpg/cloudflare-2@256.jpg">
     <img src="jpg/cloudflare-2@256.jpg" width="180" alt="cloudflare">
   </a>
+  <a href="png/comfyui@256.png">
+    <img src="png/comfyui@256.png" width="180" alt="comfyui">
+  </a>
   <a href="webp/controlr@256.webp">
     <img src="webp/controlr@256.webp" width="180" alt="controlr">
   </a>
@@ -69,6 +72,9 @@ Auto-generated preview gallery.
   <a href="webp/immich@256.webp">
     <img src="webp/immich@256.webp" width="180" alt="immich">
   </a>
+  <a href="png/immich-2@256.png">
+    <img src="png/immich-2@256.png" width="180" alt="immich">
+  </a>
   <a href="webp/meelo@256.webp">
     <img src="webp/meelo@256.webp" width="180" alt="meelo">
   </a>
@@ -92,6 +98,9 @@ Auto-generated preview gallery.
   </a>
   <a href="webp/ollama@256.webp">
     <img src="webp/ollama@256.webp" width="180" alt="ollama">
+  </a>
+  <a href="png/open-webui@256.png">
+    <img src="png/open-webui@256.png" width="180" alt="open-webui">
   </a>
   <a href="webp/openspeedtest@256.webp">
     <img src="webp/openspeedtest@256.webp" width="180" alt="openspeedtest">
@@ -143,6 +152,9 @@ Auto-generated preview gallery.
   </a>
   <a href="webp/unity-discussions@256.webp">
     <img src="webp/unity-discussions@256.webp" width="180" alt="unity-discussions">
+  </a>
+  <a href="png/uptime-kuma@256.png">
+    <img src="png/uptime-kuma@256.png" width="180" alt="uptime-kuma">
   </a>
   <a href="webp/vscode@256.webp">
     <img src="webp/vscode@256.webp" width="180" alt="vscode">
