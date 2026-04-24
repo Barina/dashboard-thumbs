@@ -158,5 +158,9 @@
     "comfyui": {
         "name": "ComfyUI",
         "website": "https://www.comfyui.org/"
+    },
+    "open-webui": {
+        "name": "Open WebUI",
+        "website": "https://www.openwebui.com/"
     }
 }

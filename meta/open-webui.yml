@@ -1,0 +1,11 @@
+name: open-webui
+category: service
+service: open-webui
+
+creator: ai
+tool: chatGPT
+model: DALL-E
+
+animated: false
+variants:
+  - png
