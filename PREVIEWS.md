@@ -21,6 +21,9 @@ Auto-generated preview gallery.
   <a href="webp/cloudflare@256.webp">
     <img src="webp/cloudflare@256.webp" width="180" alt="cloudflare">
   </a>
+  <a href="png/cloudflare-zerotrust@256.png">
+    <img src="png/cloudflare-zerotrust@256.png" width="180" alt="cloudflare">
+  </a>
   <a href="jpg/cloudflare-2@256.jpg">
     <img src="jpg/cloudflare-2@256.jpg" width="180" alt="cloudflare">
   </a>

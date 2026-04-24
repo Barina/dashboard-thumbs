@@ -1103,6 +1103,35 @@
       ]
     }
   },
+  "cloudflare-zerotrust": {
+    "files": {
+      "png": {
+        "512": "png/cloudflare-zerotrust@512.png",
+        "128": "png/cloudflare-zerotrust@128.png",
+        "256": "png/cloudflare-zerotrust@256.png"
+      }
+    },
+    "sizes": [
+      128,
+      256,
+      512
+    ],
+    "formats": [
+      "png"
+    ],
+    "meta": {
+      "name": "cloudflare-zerotrust",
+      "category": "service",
+      "service": "cloudflare",
+      "creator": "ai",
+      "tool": "chatGPT",
+      "model": "DALL-E",
+      "animated": false,
+      "variants": [
+        "png"
+      ]
+    }
+  },
   "docker-dark": {
     "files": {
       "png": {
