@@ -1,0 +1,11 @@
+name: uptime-kuma
+category: service
+service: uptime-kuma
+
+creator: ai
+tool: chatGPT
+model: DALL-E
+
+animated: false
+variants:
+  - png

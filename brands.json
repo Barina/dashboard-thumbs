@@ -166,5 +166,9 @@
     "immich": {
         "name": "immich",
         "website": "https://www.immich.app/"
+    },
+    "uptime-kuma": {
+        "name": "Uptime Kuma",
+        "website": "https://www.uptimekuma.org/"
     }
 }
