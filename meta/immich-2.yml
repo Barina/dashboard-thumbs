@@ -1,0 +1,11 @@
+name: immich-2
+category: service
+service: immich
+
+creator: ai
+tool: chatGPT
+model: DALL-E
+
+animated: false
+variants:
+  - png

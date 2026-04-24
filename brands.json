@@ -162,5 +162,9 @@
     "open-webui": {
         "name": "Open WebUI",
         "website": "https://www.openwebui.com/"
+    },
+    "immich": {
+        "name": "immich",
+        "website": "https://www.immich.app/"
     }
 }
