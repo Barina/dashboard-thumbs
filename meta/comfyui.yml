@@ -1,0 +1,11 @@
+name: comfyui
+category: service
+service: comfyui
+
+creator: ai
+tool: chatGPT
+model: DALL-E
+
+animated: false
+variants:
+  - png

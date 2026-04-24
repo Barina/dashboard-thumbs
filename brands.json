@@ -154,5 +154,9 @@
     "prowlarr": {
         "name": "Prowlarr",
         "website": "https://www.prowlarr.com/"
+    },
+    "comfyui": {
+        "name": "ComfyUI",
+        "website": "https://www.comfyui.org/"
     }
 }
