@@ -1,0 +1,11 @@
+name: cloudflare-zerotrust
+category: service
+service: cloudflare
+
+creator: ai
+tool: chatGPT
+model: DALL-E
+
+animated: false
+variants:
+  - png
